@@ -1,0 +1,2 @@
+# PythonFunExercises
+Different Python algorithms
